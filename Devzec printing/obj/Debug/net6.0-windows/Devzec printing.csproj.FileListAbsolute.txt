@@ -1,0 +1,25 @@
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.csproj.AssemblyReference.cache
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec_printing.Form1.resources
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec_printing.Properties.Resources.resources
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.csproj.GenerateResource.cache
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.AssemblyInfoInputs.cache
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.AssemblyInfo.cs
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.csproj.CoreCompileInputs.cache
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\Devzec printing.exe
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\Devzec printing.deps.json
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\Devzec printing.runtimeconfig.json
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\Devzec printing.dll
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\Devzec printing.pdb
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Devzec\Printing\Devzec printing\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.csproj.CopyComplete
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.dll
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\refint\Devzec printing.dll
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.pdb
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\Devzec printing.genruntimeconfig.cache
+G:\Devzec\Printing\Devzec printing\obj\Debug\net6.0-windows\ref\Devzec printing.dll
